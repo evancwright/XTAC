@@ -1,0 +1,4 @@
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\XTAC\GameTables\bin\Debug\GameTables.dll
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\XTAC\GameTables\bin\Debug\GameTables.pdb
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\XTAC\GameTables\obj\Debug\GameTables.dll
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\XTAC\GameTables\obj\Debug\GameTables.pdb
